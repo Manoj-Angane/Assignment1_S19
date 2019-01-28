@@ -264,3 +264,15 @@ namespace Assignment1_S19
         }//end of Power
     }
 }
+/*
+ Self Reflection:
+ 1. Sucessfully created multiple methods with return and without return
+ 2. Used multiple recursive function
+ 3. Used Array my biggest fear
+ 4. Used both For and While loop
+ 5. Used e.Message for displaying specific error message with custom message for easy debugging
+
+Recommendation:
+1. for Prime Number finding function we used range from 5 to 15 but that is not covering pitfall n=1, not handling that might reduce score so better to used range 
+starting from 1 so that everybody will handle n=1.
+ */ 
